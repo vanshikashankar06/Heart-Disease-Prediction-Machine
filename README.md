@@ -2,8 +2,11 @@
 SO LET'S GOOO!!!
 
 Heart Disease Diagnostic System:
+
+
 Project Description
 This repository contains a Supervised Machine Learning solution for predicting the presence of heart disease. Using the UCI Cleveland dataset, this project implements a Random Forest Classifier to analyze 14 clinical features and provide a binary classification (Healthy vs. At-Risk).
+
 
 This project was developed as a capstone for the Fundamentals of AI and ML course, emphasizing the importance of data preprocessing and model evaluation in medical informatics.
 
